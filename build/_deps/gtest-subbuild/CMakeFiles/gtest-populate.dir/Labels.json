@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/code/c++/lab6/build/_deps/gtest-subbuild/CMakeFiles/gtest-populate"
+		},
+		{
+			"file" : "E:/code/c++/lab6/build/_deps/gtest-subbuild/CMakeFiles/gtest-populate.rule"
+		},
+		{
+			"file" : "E:/code/c++/lab6/build/_deps/gtest-subbuild/CMakeFiles/gtest-populate-complete.rule"
+		},
+		{
+			"file" : "E:/code/c++/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-build.rule"
+		},
+		{
+			"file" : "E:/code/c++/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-configure.rule"
+		},
+		{
+			"file" : "E:/code/c++/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-download.rule"
+		},
+		{
+			"file" : "E:/code/c++/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-install.rule"
+		},
+		{
+			"file" : "E:/code/c++/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/code/c++/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-patch.rule"
+		},
+		{
+			"file" : "E:/code/c++/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-test.rule"
+		},
+		{
+			"file" : "E:/code/c++/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gtest-populate"
+		],
+		"name" : "gtest-populate"
+	}
+}

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "E:/code/c++/lab6/build",
+  "command": "E:\\mingw64\\bin\\g++.exe  @CMakeFiles/vec_test.dir/includes_CXX.rsp -g -o CMakeFiles\\vec_test.dir\\vec.cpp.obj -c E:\\code\\c++\\lab6\\vec.cpp",
+  "file": "E:/code/c++/lab6/vec.cpp",
+  "output": "CMakeFiles/vec_test.dir/vec.cpp.obj"
+},
+{
+  "directory": "E:/code/c++/lab6/build",
+  "command": "E:\\mingw64\\bin\\g++.exe  @CMakeFiles/vec_test.dir/includes_CXX.rsp -g -o CMakeFiles\\vec_test.dir\\vec_test.cpp.obj -c E:\\code\\c++\\lab6\\vec_test.cpp",
+  "file": "E:/code/c++/lab6/vec_test.cpp",
+  "output": "CMakeFiles/vec_test.dir/vec_test.cpp.obj"
+},
+{
+  "directory": "E:/code/c++/lab6/build/_deps/gtest-build/googlemock",
+  "command": "E:\\mingw64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c E:\\code\\c++\\lab6\\build\\_deps\\gtest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "E:/code/c++/lab6/build/_deps/gtest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/gtest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "E:/code/c++/lab6/build/_deps/gtest-build/googlemock",
+  "command": "E:\\mingw64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c E:\\code\\c++\\lab6\\build\\_deps\\gtest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "E:/code/c++/lab6/build/_deps/gtest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/gtest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "E:/code/c++/lab6/build/_deps/gtest-build/googletest",
+  "command": "E:\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c E:\\code\\c++\\lab6\\build\\_deps\\gtest-src\\googletest\\src\\gtest-all.cc",
+  "file": "E:/code/c++/lab6/build/_deps/gtest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/gtest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "E:/code/c++/lab6/build/_deps/gtest-build/googletest",
+  "command": "E:\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c E:\\code\\c++\\lab6\\build\\_deps\\gtest-src\\googletest\\src\\gtest_main.cc",
+  "file": "E:/code/c++/lab6/build/_deps/gtest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/gtest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]

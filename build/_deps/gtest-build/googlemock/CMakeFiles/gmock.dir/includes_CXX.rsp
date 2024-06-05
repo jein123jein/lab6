@@ -1,0 +1,1 @@
+-I"E:/code/c++/lab6/build/_deps/gtest-src/googlemock/include" -I"E:/code/c++/lab6/build/_deps/gtest-src/googlemock" -I"E:/code/c++/lab6/build/_deps/gtest-src/include" -I"E:/code/c++/lab6/build/_deps/gtest-src" -isystem "E:/code/c++/lab6/build/_deps/gtest-src/googletest/include" -isystem "E:/code/c++/lab6/build/_deps/gtest-src/googletest"
